@@ -23,17 +23,6 @@ MemoVerse leverages blockchain technology in the following ways:
 [Figma design:](https://www.figma.com/file/iHcwc8crwv019YLAOvdLz7/MEMOVERSE-lisk?type=design&node-id=11-971&mode=design)
 
 
-## Deployment Files: 
-
-- While we do not have a deployed link at this moment, our focus is on building a foundation that can support MemoVerse's long-term success. This involves careful planning, meticulous development, and strategic deployment when we are confident in the platform's readiness.
-
-- In summary, the absence of a deployed link does not reflect a lack of progress but rather a commitment to delivering a polished and secure platform. We value transparency and will continue to update the community on our progress. 
-
-- Our goal is to provide a MemoVerse experience that exceeds expectations, and we appreciate your understanding and support as we work diligently towards that goal.
-
-- Thank you for being a part of the MemoVerse journey, and we look forward to sharing our live platform with you shortly.
-
-
 
 ## Features 
 
