@@ -1,4 +1,4 @@
-# PROJECT NAME: MemoVerse 
+# MemoVerse 
 
 ## Description.  
 
